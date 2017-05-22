@@ -1,5 +1,4 @@
 mod checked {
-    #[derive(Debug)]
     enum MathError {
         DivisionByZero,
         NegativeLogarithm,
